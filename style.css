@@ -127,23 +127,17 @@ label {
 .forca {
     height: 30px;
     position: relative;
-    bottom: 30px;
+    bottom: 30px;   
 }
 
 .fraca {
-    height:30px;
     width: 25%;
     background-color: #E71B32;
-    position: relative;
-    bottom: 30px;
 }
 
 .media {
     background-color: #FAF408;
     width: 50%;
-    height:30px;
-    position: relative;
-    bottom: 30px;
 }
 
 .forte {
